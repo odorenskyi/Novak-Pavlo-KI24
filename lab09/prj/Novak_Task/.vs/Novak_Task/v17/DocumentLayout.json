@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB9\\Novak_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA16AD6-3483-452D-97C7-69DB82BF672D}|Novak_Task\\Novak_Task.vcxproj|D:\\UN\\\u0411\u041C\u0422\u041F\\LAB9\\Novak_Task\\Novak_Task\\Novak_Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AA16AD6-3483-452D-97C7-69DB82BF672D}|Novak_Task\\Novak_Task.vcxproj|solutionrelative:Novak_Task\\Novak_Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Novak_Task.cpp",
+              "DocumentMoniker": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB9\\Novak_Task\\Novak_Task\\Novak_Task.cpp",
+              "RelativeDocumentMoniker": "Novak_Task\\Novak_Task.cpp",
+              "ToolTip": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB9\\Novak_Task\\Novak_Task\\Novak_Task.cpp",
+              "RelativeToolTip": "Novak_Task\\Novak_Task.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T11:57:24.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

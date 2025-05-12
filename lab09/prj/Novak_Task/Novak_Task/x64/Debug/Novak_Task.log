@@ -1,0 +1,3 @@
+﻿  Novak_Task.cpp
+D:\UN\БМТП\LAB9\Novak_Task\Novak_Task\Novak_Task.cpp(27,27): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  Novak_Task.vcxproj -> D:\UN\БМТП\LAB9\Novak_Task\x64\Debug\Novak_Task.exe
