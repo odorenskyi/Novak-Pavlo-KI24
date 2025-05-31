@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB10\\TestDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE3686A-7C35-4E5B-A47B-F0CFCF06D584}|TestDriver\\TestDriver.vcxproj|D:\\UN\\\u0411\u041C\u0422\u041F\\LAB10\\TestDriver\\TestDriver\\TestDriver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEE3686A-7C35-4E5B-A47B-F0CFCF06D584}|TestDriver\\TestDriver.vcxproj|solutionrelative:TestDriver\\TestDriver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDriver.cpp",
+              "DocumentMoniker": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB10\\TestDriver\\TestDriver\\TestDriver.cpp",
+              "RelativeDocumentMoniker": "TestDriver\\TestDriver.cpp",
+              "ToolTip": "D:\\UN\\\u0411\u041C\u0422\u041F\\LAB10\\TestDriver\\TestDriver\\TestDriver.cpp",
+              "RelativeToolTip": "TestDriver\\TestDriver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T08:47:08.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
